@@ -16,7 +16,7 @@ const Footer = () => {
           className="mx-3 footer-gif"
         />
       </h3>
-      <h6>All Rights Reserved &copy; Dhruv Sonani-2023</h6>
+      <h6>All Rights Reserved &copy; Dhruv Sonani</h6>
       <div className="d-flex flex-row p-2">
         <p className="me-4" title="Github">
           <Link to="/">
